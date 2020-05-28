@@ -21,21 +21,21 @@ main reference:
 [coding-interview-university](https://github.com/jwasham/coding-interview-university#recursion)
 
 May 28 Tasks
-- [ ] LeetCode 1-125 (round 1, 125 questions)
+- [x] LeetCode 1.125
 - [ ] MERN course 50%
 
 
 May 29 Tasks
-- [ ] LeetCode 1-135
+- [ ] LeetCode 1.135
 - [ ] MERN course 70%
 
 
 May 30 Tasks
-- [ ] LeetCode 1-150
+- [ ] LeetCode 1.150
 - [ ] MERN course 90%
 
 May 31 Tasks
-- [ ] LeetCode 1-165
+- [ ] LeetCode 1.165
 - [ ] MERN course 100%
 
 
