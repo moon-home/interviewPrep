@@ -26,16 +26,16 @@ May 28 Tasks
 
 
 May 29 Tasks
-- [ ] LeetCode 1-135 (round 1, 125 questions)
+- [ ] LeetCode 1-135
 - [ ] MERN course 70%
 
 
 May 30 Tasks
-- [ ] LeetCode 1-150 (round 1, 125 questions)
+- [ ] LeetCode 1-150
 - [ ] MERN course 90%
 
 May 31 Tasks
-- [ ] LeetCode 1-165 (round 1, 125 questions)
+- [ ] LeetCode 1-165
 - [ ] MERN course 100%
 
 
