@@ -16,7 +16,28 @@ I am also learning the basics as the foundation and backgroud such as:
 - mobile app development (Flutter)
 - Common tools and concepts (Git, Docker, NGINX CI/CD, UT/TDD, GCP certs)
 
+main reference: 
+
+[coding-interview-university](https://github.com/jwasham/coding-interview-university#recursion)
+
 May 28 Tasks
 - [ ] LeetCode 1-125 (round 1, 125 questions)
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] MERN course 50%
+
+
+May 29 Tasks
+- [ ] LeetCode 1-135 (round 1, 125 questions)
+- [ ] MERN course 70%
+
+
+May 30 Tasks
+- [ ] LeetCode 1-150 (round 1, 125 questions)
+- [ ] MERN course 90%
+
+May 31 Tasks
+- [ ] LeetCode 1-165 (round 1, 125 questions)
+- [ ] MERN course 100%
+
+
+
+
