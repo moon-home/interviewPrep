@@ -1,6 +1,6 @@
-# interviewPrep
+# Machine Learning Engineer Preparation
 
-This is a repo for all the learning materials I use to prepare my job interview. 
+This is a repo for my learning path to be a machine learning engineer. 
 
 I am particularly interested in 
 
@@ -15,3 +15,8 @@ I am also learning the basics as the foundation and backgroud such as:
 - web development (MERN), 
 - mobile app development (Flutter)
 - Common tools and concepts (Git, Docker, NGINX CI/CD, UT/TDD, GCP certs)
+
+May 28 Tasks
+- [ ] LeetCode 1-125 (round 1, 125 questions)
+- [ ] Update the website
+- [ ] Contact the media
