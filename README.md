@@ -20,21 +20,23 @@ main reference:
 
 [coding-interview-university](https://github.com/jwasham/coding-interview-university#recursion)
 
-May 28 Tasks
+ **Daily Progress**
+ 
+May 28
 - [x] LeetCode 1.125
 - [x] MERN course 50%
 
 
-May 29 Tasks
+May 29 
 - [x] LeetCode 1.135
 - [ ] MERN course 70%
 
 
-May 30 Tasks
+May 30 
 - [x] LeetCode 1.150
 - [ ] MERN course 90%
 
-May 31 Tasks
+May 31
 - [ ] LeetCode 1.165
 - [ ] MERN course 100%
 
