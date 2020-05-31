@@ -22,16 +22,16 @@ main reference:
 
 May 28 Tasks
 - [x] LeetCode 1.125
-- [ ] MERN course 50%
+- [x] MERN course 50%
 
 
 May 29 Tasks
-- [ ] LeetCode 1.135
+- [x] LeetCode 1.135
 - [ ] MERN course 70%
 
 
 May 30 Tasks
-- [ ] LeetCode 1.150
+- [x] LeetCode 1.150
 - [ ] MERN course 90%
 
 May 31 Tasks
