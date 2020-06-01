@@ -37,8 +37,11 @@ May 30
 - [ ] MERN course 90%
 
 May 31
-- [ ] LeetCode 1.165
+- [x] LeetCode 1.165
 - [ ] MERN course 100%
+
+May 31
+- [x] LeetCode 1.180
 
 
 
