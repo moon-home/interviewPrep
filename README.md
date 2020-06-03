@@ -26,15 +26,11 @@ May 28
 - [x] LeetCode 1.125
 - [x] MERN course 50%
 
-
 May 29 
 - [x] LeetCode 1.135
-- [ ] MERN course 70%
-
 
 May 30 
 - [x] LeetCode 1.150
-- [ ] MERN course 90%
 
 May 31
 - [x] LeetCode 1.165
@@ -42,6 +38,22 @@ May 31
 
 May 31
 - [x] LeetCode 1.180
+
+June 1
+- [x] LeetCode 1.185
+
+June 2
+- [x] LeetCode 1.190
+
+June 3
+- [x] LeetCode 1.200
+- [x] React 50%
+
+June 4
+- [ ] LeetCode 1.215
+- [ ] React 60%
+
+
 
 
 
