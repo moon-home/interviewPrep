@@ -50,8 +50,12 @@ June 3
 - [x] React 50%
 
 June 4
-- [ ] LeetCode 1.215
-- [ ] React 60%
+- [ ] LeetCode 1.210
+- [x] React 60%
+
+June 5
+- [ ] LeetCode 1.220
+- [ ] React 80%
 
 
 
